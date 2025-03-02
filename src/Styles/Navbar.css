@@ -1,0 +1,10 @@
+.Container{
+    width: 75%;
+    max-width: 1440px;
+  margin:0 auto ;
+}
+.something{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
